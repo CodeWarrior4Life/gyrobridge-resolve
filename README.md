@@ -1,5 +1,7 @@
 # Gyrobridge — Gyroflow stabilization inside DaVinci Resolve
 
+<p align="center"><img src="assets/gyrobridge-box.png" width="520" alt="Gyrobridge software box: gyro stabilization for DaVinci Resolve Studio"></p>
+
 Stabilize gyro-equipped footage without leaving DaVinci Resolve. Select clips, click **Stabilize**,
 and Gyrobridge runs [Gyroflow](https://gyroflow.xyz) in the background on each clip, renders the
 result outside Resolve, and brings the stabilized copy back into your media pool — marked so you
